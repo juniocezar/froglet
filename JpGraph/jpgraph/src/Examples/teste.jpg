@@ -1,0 +1,1 @@
+JpGraph Error: 25001 This PHP installation is not configured with the GD library. Please recompile PHP with GD support to run JpGraph. (Neither function imagetypes() nor imagecreatefromstring() does exist)
