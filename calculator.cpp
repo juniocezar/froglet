@@ -28,7 +28,6 @@ int main(int argc, char **argv){
     }
   }
 
-  //printf("Media = %.18lf\n\n", sum/(argc-1));
   printf("%.18lf", 1000*(sum/dividendo));
 
 
